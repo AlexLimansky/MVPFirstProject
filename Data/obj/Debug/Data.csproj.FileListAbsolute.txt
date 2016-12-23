@@ -1,0 +1,5 @@
+D:\Docs\Ses\S51\C#\MVPtest\Data\bin\Debug\Data.dll
+D:\Docs\Ses\S51\C#\MVPtest\Data\bin\Debug\Data.pdb
+D:\Docs\Ses\S51\C#\MVPtest\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+D:\Docs\Ses\S51\C#\MVPtest\Data\obj\Debug\Data.dll
+D:\Docs\Ses\S51\C#\MVPtest\Data\obj\Debug\Data.pdb

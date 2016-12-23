@@ -1,0 +1,10 @@
+D:\Docs\Ses\S51\C#\MVPtest\MVPtest\bin\Debug\MVPtest.exe.config
+D:\Docs\Ses\S51\C#\MVPtest\MVPtest\obj\Debug\MVPtest.exe
+D:\Docs\Ses\S51\C#\MVPtest\MVPtest\obj\Debug\MVPtest.pdb
+D:\Docs\Ses\S51\C#\MVPtest\MVPtest\bin\Debug\MVPtest.exe
+D:\Docs\Ses\S51\C#\MVPtest\MVPtest\bin\Debug\MVPtest.pdb
+D:\Docs\Ses\S51\C#\MVPtest\MVPtest\bin\Debug\Data.dll
+D:\Docs\Ses\S51\C#\MVPtest\MVPtest\bin\Debug\Services.dll
+D:\Docs\Ses\S51\C#\MVPtest\MVPtest\bin\Debug\Data.pdb
+D:\Docs\Ses\S51\C#\MVPtest\MVPtest\bin\Debug\Services.pdb
+D:\Docs\Ses\S51\C#\MVPtest\MVPtest\obj\Debug\Console.csprojResolveAssemblyReference.cache

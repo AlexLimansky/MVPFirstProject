@@ -1,0 +1,7 @@
+D:\Docs\Ses\S51\C#\MVPtest\Services\bin\Debug\Services.dll
+D:\Docs\Ses\S51\C#\MVPtest\Services\bin\Debug\Services.pdb
+D:\Docs\Ses\S51\C#\MVPtest\Services\bin\Debug\Data.dll
+D:\Docs\Ses\S51\C#\MVPtest\Services\bin\Debug\Data.pdb
+D:\Docs\Ses\S51\C#\MVPtest\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+D:\Docs\Ses\S51\C#\MVPtest\Services\obj\Debug\Services.dll
+D:\Docs\Ses\S51\C#\MVPtest\Services\obj\Debug\Services.pdb

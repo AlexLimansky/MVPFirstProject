@@ -1,0 +1,13 @@
+D:\Docs\Ses\S51\C#\MVPtest\Forms\bin\Debug\Forms.exe.config
+D:\Docs\Ses\S51\C#\MVPtest\Forms\bin\Debug\Forms.exe
+D:\Docs\Ses\S51\C#\MVPtest\Forms\bin\Debug\Forms.pdb
+D:\Docs\Ses\S51\C#\MVPtest\Forms\obj\Debug\Forms.csprojResolveAssemblyReference.cache
+D:\Docs\Ses\S51\C#\MVPtest\Forms\obj\Debug\Forms.Properties.Resources.resources
+D:\Docs\Ses\S51\C#\MVPtest\Forms\obj\Debug\Forms.csproj.GenerateResource.Cache
+D:\Docs\Ses\S51\C#\MVPtest\Forms\obj\Debug\Forms.exe
+D:\Docs\Ses\S51\C#\MVPtest\Forms\obj\Debug\Forms.pdb
+D:\Docs\Ses\S51\C#\MVPtest\Forms\bin\Debug\Data.dll
+D:\Docs\Ses\S51\C#\MVPtest\Forms\bin\Debug\Data.pdb
+D:\Docs\Ses\S51\C#\MVPtest\Forms\bin\Debug\Services.dll
+D:\Docs\Ses\S51\C#\MVPtest\Forms\bin\Debug\Services.pdb
+D:\Docs\Ses\S51\C#\MVPtest\Forms\obj\Debug\Forms.BookForm.resources
