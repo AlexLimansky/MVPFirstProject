@@ -11,3 +11,9 @@ D:\Docs\Ses\S51\C#\MVPtest\Forms\bin\Debug\Data.pdb
 D:\Docs\Ses\S51\C#\MVPtest\Forms\bin\Debug\Services.dll
 D:\Docs\Ses\S51\C#\MVPtest\Forms\bin\Debug\Services.pdb
 D:\Docs\Ses\S51\C#\MVPtest\Forms\obj\Debug\Forms.BookForm.resources
+D:\Docs\Ses\S51\C#\MVPtest\Forms\bin\Debug\Database.mdf
+D:\Docs\Ses\S51\C#\MVPtest\Forms\bin\Debug\Database_log.ldf
+D:\Docs\Ses\S51\C#\MVPtest\Forms\bin\Debug\EntityFramework.dll
+D:\Docs\Ses\S51\C#\MVPtest\Forms\bin\Debug\EntityFramework.xml
+D:\Docs\Ses\S51\C#\MVPtest\Forms\bin\Debug\EntityFramework.SqlServer.dll
+D:\Docs\Ses\S51\C#\MVPtest\Forms\bin\Debug\EntityFramework.SqlServer.xml

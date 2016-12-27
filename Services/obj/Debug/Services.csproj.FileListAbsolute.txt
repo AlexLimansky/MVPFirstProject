@@ -5,3 +5,10 @@ D:\Docs\Ses\S51\C#\MVPtest\Services\bin\Debug\Data.pdb
 D:\Docs\Ses\S51\C#\MVPtest\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
 D:\Docs\Ses\S51\C#\MVPtest\Services\obj\Debug\Services.dll
 D:\Docs\Ses\S51\C#\MVPtest\Services\obj\Debug\Services.pdb
+D:\Docs\Ses\S51\C#\MVPtest\Services\bin\Debug\Database.mdf
+D:\Docs\Ses\S51\C#\MVPtest\Services\bin\Debug\Database_log.ldf
+D:\Docs\Ses\S51\C#\MVPtest\Services\bin\Debug\Services.dll.config
+D:\Docs\Ses\S51\C#\MVPtest\Services\bin\Debug\EntityFramework.dll
+D:\Docs\Ses\S51\C#\MVPtest\Services\bin\Debug\EntityFramework.SqlServer.dll
+D:\Docs\Ses\S51\C#\MVPtest\Services\bin\Debug\EntityFramework.xml
+D:\Docs\Ses\S51\C#\MVPtest\Services\bin\Debug\EntityFramework.SqlServer.xml

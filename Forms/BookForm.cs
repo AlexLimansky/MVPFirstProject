@@ -4,14 +4,23 @@ using System.Windows.Forms;
 using Data;
 using Services;
 using Services.Interfaces;
+using Services.Presenters;
 
 namespace Forms
 {
     public partial class BookForm : Form, IBooksView
     {
+        private BookPresenter _presenter;
+
         public int SelectedBookId { get; set; }
         public Book CurrentBook { get; set; }
         public IEnumerable<Book> BooksList { get; set; }
+
+        public BookForm()
+        {
+            _presenter = new BookPresenter(this);
+            InitializeComponent(); 
+        }
 
         public void ShowAllBooks()
         {
@@ -47,12 +56,7 @@ namespace Forms
         public event EventHandler SelectedIdChanged = delegate { };
         public event EventHandler<BookEventArgs> BookCreated = delegate { };
         public event EventHandler<BookEventArgs> BookUpdated = delegate { };
-        public event EventHandler<int> BookDeleted = delegate { };
-      
-        public BookForm()
-        {
-            InitializeComponent();           
-        }
+        public event EventHandler<int> BookDeleted = delegate { };      
 
         private void Form1_Load(object sender, EventArgs e)
         {

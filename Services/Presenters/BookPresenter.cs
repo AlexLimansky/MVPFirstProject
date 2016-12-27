@@ -1,5 +1,6 @@
 ﻿using System;
 using Services.Interfaces;
+using Services.Models;
 
 namespace Services.Presenters
 {
@@ -8,10 +9,11 @@ namespace Services.Presenters
         private IBooksModel _model;
         private IBooksView _view;
 
-        public BookPresenter(IBooksModel model, IBooksView view)
+        public BookPresenter(IBooksView view)
         {
             _view = view;
-            _model = model;
+            //_model = new BookServices();
+            _model = new BookEFServices();
             _view.BooksList = _model.GetAllBooks();
             _view.SelectedIdChanged += _view_SelectedIdChanged;
             _model.BooksUpdated += _model_BooksUpdated;
